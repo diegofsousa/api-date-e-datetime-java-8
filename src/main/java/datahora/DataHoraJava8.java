@@ -30,7 +30,7 @@ public class DataHoraJava8 {
 
         LocalTime localTime = LocalTime.now();
         System.out.println(localTime);
-        LocalTime lt = LocalTime.of(11, 10, 01, 100000);
+        LocalTime lt = LocalTime.of(11, 10, 1, 100000);
         System.out.println(lt);
 
         System.out.println("----------------");
